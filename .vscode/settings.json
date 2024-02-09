@@ -1,0 +1,5 @@
+{
+    "workbench.editorAssociations": {
+        "*speedscope.json": "speedscope-in-vscode.speedscope"
+    }
+}
